@@ -73,6 +73,7 @@ STATICFILES_DIRS = (
     # Put strings here, like "/home/html/static" or "C:/www/django/static".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
+    "/home/alu4078/casa/proyectos-django/django_flavored/css",
 )
 
 # List of finder classes that know how to find static files in
@@ -112,7 +113,7 @@ TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
-    "/Users/Edinho/Documents/Universidad/Grado/2013-14/Segundo cuatrimestre/Tercero/Desarrollo de Sistemas Informáticos/compartida_dsi/proyectos_django/p6_django_flavored/my_app/templates"
+    "/Users/Edinho/Documents/Universidad/Grado/2013-14/Segundo cuatrimestre/Tercero/Desarrollo de Sistemas Informáticos/compartida_dsi/proyectos_django/p6_django_flavored/my_app/templates",
 )
 
 INSTALLED_APPS = (

@@ -26,3 +26,6 @@ def help(request):
 
 def about(request):
     return render_to_response('about.html')
+
+def base(request):
+    return render_to_response('base_index.html')
